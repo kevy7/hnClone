@@ -2,7 +2,7 @@
   "name": "hnsearch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kevy7.github.io/hnClone",
+  "homepage": "https://kevy7.github.io/hnClone/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.1.0",
