@@ -1,0 +1,46 @@
+.ListItemComponent{
+    width: 100%;
+    height: 70px;
+    margin: 0px;
+    border-bottom: solid thin gray;
+}
+
+/*.ListItemComponent * {*/
+/*    margin: 0px;*/
+/*    padding: 15px;*/
+/*}*/
+
+/*.SubHeader {*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*}*/
+
+/*.Subheader a {*/
+/*    font-size: 5px;*/
+/*}*/
+
+.ComponentWrapper {
+    padding: 15px;
+}
+
+.ComponentTitle {
+    margin: 0px;
+    margin-bottom: 5px;
+}
+
+.ComponentSubHeader {
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    list-style-type: none;
+    padding: 0px;
+}
+
+.ComponentSubHeader li {
+    margin-right: 5px;
+    font-size: 12px;
+    border-right: solid thin gray;
+    padding-right: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+}

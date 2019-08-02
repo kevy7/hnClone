@@ -1,0 +1,12 @@
+/* This is the css page for my App.js file */
+
+.Container {
+    width: 80%;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #6ba3ff;
+}
+
+body {
+    margin: 0;
+}
